@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="combo/|direction/|source/|source/Card/|source/item_Icon/|source/selected_Card/|source/Sound/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/combo"/>
+	<classpathentry kind="src" path="src/direction"/>
+	<classpathentry excluding="Card/|item_Icon/|selected_Card/|Sound/" kind="src" path="src/source"/>
+	<classpathentry kind="src" path="src/source/Card"/>
+	<classpathentry kind="src" path="src/source/item_Icon"/>
+	<classpathentry kind="src" path="src/source/selected_Card"/>
+	<classpathentry kind="src" path="src/source/Sound"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpcore-ab-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Penguin/Desktop/프로젝트/C&amp;OLab1129_3/src/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
